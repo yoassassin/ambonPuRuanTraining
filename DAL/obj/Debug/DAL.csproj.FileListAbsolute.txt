@@ -1,0 +1,7 @@
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\bin\Debug\DAL.dll
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\bin\Debug\DAL.pdb
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\obj\Debug\DAL.dll
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\obj\Debug\DAL.pdb
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\bin\Debug\Model.dll
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\DAL\bin\Debug\Model.pdb

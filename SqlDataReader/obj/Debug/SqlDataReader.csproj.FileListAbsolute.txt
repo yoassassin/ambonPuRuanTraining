@@ -1,0 +1,6 @@
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\bin\Debug\SqlDataReaderTest.exe.config
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\bin\Debug\SqlDataReaderTest.exe
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\bin\Debug\SqlDataReaderTest.pdb
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\obj\Debug\SqlDataReader.csprojResolveAssemblyReference.cache
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\obj\Debug\SqlDataReaderTest.exe
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\SqlDataReader\obj\Debug\SqlDataReaderTest.pdb

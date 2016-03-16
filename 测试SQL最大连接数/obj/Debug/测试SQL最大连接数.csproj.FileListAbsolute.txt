@@ -1,0 +1,6 @@
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\bin\Debug\测试SQL最大连接数.exe.config
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\bin\Debug\测试SQL最大连接数.exe
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\bin\Debug\测试SQL最大连接数.pdb
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\obj\Debug\测试SQL最大连接数.csprojResolveAssemblyReference.cache
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\obj\Debug\测试SQL最大连接数.exe
+C:\曹钟玛201603040094\01 综合\Code\Comprehensive\测试SQL最大连接数\obj\Debug\测试SQL最大连接数.pdb
